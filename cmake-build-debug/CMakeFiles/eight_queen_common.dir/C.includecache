@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/yangguang/Documents/sunny/dev/workspaces/workspace-clion/eight_queen_common/main.c
+stdio.h
+-
+memory.h
+-
+
